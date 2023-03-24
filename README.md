@@ -17,36 +17,6 @@ As a consequence, be careful not to push any c file containing a main function i
 
 The main files will include your main header file (holberton.h): #include holberton.h
 
-# Use & Examples
- Prototype: `int _printf(const char *format, ...); Use - General: _printf("format string", var1, var2, ...);`
-
-**Examples**:
-
-`Basic String: _printf("%s Holberton", "Hello");`
-
-**Output**: Hello Holberton
-Print integers: _printf("This is an array element: arr[%d]:%c", 32, arr[32]);`
-
-**Output**: This is an array element arr[32]:A
-Many other specifiers and flags were added and by combinig those the _printf() function generate a different ouput. The following list are the specifiers and flags allowed.
-
-# Use & Examples
-
-**Specifiers**
-| Specifier  | Output    | Examples |
-| :- - -           | :- - - -:       | - - -:            |
-|     c           | Character         |    	y           |
-|   d or i	     | Signed integer	1024, -1024|
-| s	String of characters	Hello Holberton
-b	Binary Representation of unsigned integer	01010110
-u	Unsigned integer	1024
-o	Unsigned octal	432
-x	Unsigned hexadecimal integer	3ca
-X	Unsigned hexadecimal integer (uppercase)	3CA
-S	String with hex-ascii value replacing special chars	\x0A\x0A
-p	Pointer address	0x403212
-r	Reversed string of characters	dlroW olleH
-R	ROT13 Translation of string	Uryyb
 
 
 Authors ✒️ 
