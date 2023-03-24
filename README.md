@@ -64,9 +64,9 @@ The main files will include your main header file (holberton.h): #include holber
 
 l                                                                                  
 
-h`                                                                                 
+h                                                                                 
 
-`Conversion specifiers to handle: d, i, u, o, x, X `                                 
+Conversion specifiers to handle: d, i, u, o, x, X `                                 
 
                                                                                    
 
@@ -76,9 +76,7 @@ h`
 
                                                                                    
 
-### 10. The negative is the equivalent of the composer's score, and the print the perfor
-
-mance                                                                              
+### 10. The negative is the equivalent of the composer's score, and the print the performance                                                                              
 
 `Handle the precision for non-custom conversion specifiers.  `                        
 
