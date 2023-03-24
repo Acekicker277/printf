@@ -1,4 +1,4 @@
-Vi# Printf  📠
+# Printf  📠
 
 # Description ⏳
 The printf function sends formatted output to stdout. A custom `_printf()` for learning purposes was developed by cohort #12 students Oyetola Ayobami and Blessing Ojediran. `_printf()` function format string is a character string, beginning and ending in its initial shift state, if any. These arguments are placed using the percentage `'%'` operator
@@ -16,7 +16,8 @@ The code must be compiled this way:
 As a consequence, be careful not to push any c file containing a main function in the root directory of your project (you could have a test folder containing all your tests files including main functions)
 
 The main files will include your main header file (holberton.h): #include holberton.h
-# Team Tasks 🗒️                                                                                                                                          I'm not going anywhere. You can print that wherever you want to. I'm here and I Spur for life                                                            
+# Team Tasks 🗒️
+                                                                                                                                          I'm not going anywhere. You can print that wherever you want to. I'm here and I Spur for life                                                            
 Write a function that produces output according to a format.                        
 
                                                                                    
