@@ -32,7 +32,7 @@ Many other specifiers and flags were added and by combinig those the _printf() f
 
 # Use & Examples
 
-###Specifiers
+### Specifiers
 | Specifier  | Output    | Examples |
 | :- - -           | :- - - -:       | - - -:            |
 |     c           | Character         |    	y           |
