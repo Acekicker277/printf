@@ -16,14 +16,11 @@ The code must be compiled this way:
 As a consequence, be careful not to push any c file containing a main function in the root directory of your project (you could have a test folder containing all your tests files including main functions)
 
 The main files will include your main header file (holberton.h): #include holberton.h
-# Team Tasks 🗒️
-                                                                                                                                          I'm not going anywhere. You can print that wherever you want to. I'm here and I Spur for life                                                            
-Write a function that produces output according to a format.                        
-
-                                                                                   
-
-                                                                                   
-
+# Team Tasks 🗒️                
+### 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
+ a Spur for life                                                                    
+`Write a function that produces output according to a format.`                        
+                                                                                                                      I'm not going anywhere. You can print that wherever you want to. I'm here and I Spur for life                                                                                                                                                                                                                             
 ### 1. Education is when you read the fine print. Experience is what you get if you don't                                                                                  Handle the following conversion specifiers:
 
 
