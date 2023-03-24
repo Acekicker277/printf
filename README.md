@@ -18,15 +18,14 @@ As a consequence, be careful not to push any c file containing a main function i
 The main files will include your main header file (holberton.h): #include holberton.h
 # Team Tasks 🗒️                
 ### 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life                                                                    
-`Write a function that produces output according to a format.`                        
-                                                                                                                      I'm not going anywhere. You can print that wherever you want to. I'm here and I Spur for life                                                                                                                                                                                                                             
-### 1. Education is when you read the fine print. Experience is what you get if you don't                                                                                  Handle the following conversion specifiers:
-
+`Write a function that produces output according to a format.`                       
+                                                                                                                                                                                                                                                                                                                                                 
+### 1. Education is when you read the fine print. Experience is what you get if you don't                                                                                  
+`Handle the following conversion specifiers:`
 
 ### 2. With a face like mine, I do better in print                                      
 
-Handle the following custom conversion specifiers:                                  
-
+`Handle the following custom conversion specifiers:`                                  
                                                                                    
 
 ### 3. What one has not experienced, one will never understand in print                
@@ -65,7 +64,7 @@ Handle the following custom conversion specifiers:
 
 l                                                                                  
 
-h                                                                                  
+h`                                                                                 
 
 `Conversion specifiers to handle: d, i, u, o, x, X `                                 
 
@@ -91,8 +90,7 @@ mance
 
                                                                                    
 
-### 12. Every time that I wanted to give up, if I saw an interesting textile, print what
-ever, suddenly I would see a collection                                            
+### 12. Every time that I wanted to give up, if I saw an interesting textile, print whatever, suddenly I would see a collection                                            
 
 `Handle the - flag character for non-custom conversion specifiers.  `                
 
@@ -104,9 +102,7 @@ ever, suddenly I would see a collection
 
                                                                                    
 
-### 14. The flood of print has turned reading into a process of gulping rather than savo
-
-ring                                                                                
+### 14. The flood of print has turned reading into a process of gulping rather than savoring                                                                                
 
 `Handle the following custom conversion specifier:  `                                
 
