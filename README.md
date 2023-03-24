@@ -60,13 +60,9 @@ The main files will include your main header file (holberton.h): #include holber
 
 ### 8. Sarcasm is lost in print                                                        
 
-`Handle the following length modifiers for non-custom conversion specifiers:                                                                                          
+`Handle the following length modifiers for non-custom conversion specifiers:`                                                                                                                                                                                                                                                        
 
-l                                                                                  
-
-h                                                                                 
-
-Conversion specifiers to handle: d, i, u, o, x, X `                                 
+`Conversion specifiers to handle: d, i, u, o, x, X `                                 
 
                                                                                    
 
