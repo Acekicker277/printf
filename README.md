@@ -1,4 +1,4 @@
-# Printf  📠
+Vi# Printf  📠
 
 # Description ⏳
 The printf function sends formatted output to stdout. A custom `_printf()` for learning purposes was developed by cohort #12 students Oyetola Ayobami and Blessing Ojediran. `_printf()` function format string is a character string, beginning and ending in its initial shift state, if any. These arguments are placed using the percentage `'%'` operator
@@ -16,46 +16,45 @@ The code must be compiled this way:
 As a consequence, be careful not to push any c file containing a main function in the root directory of your project (you could have a test folder containing all your tests files including main functions)
 
 The main files will include your main header file (holberton.h): #include holberton.h
-# Team Tasks 🗒️
-README.md                                                                                                                                             I'm not going anywhere. You can print that wherever you want to. I'm here and I Spur for life                                                            
+# Team Tasks 🗒️                                                                                                                                          I'm not going anywhere. You can print that wherever you want to. I'm here and I Spur for life                                                            
 Write a function that produces output according to a format.                        
 
                                                                                    
 
                                                                                    
 
-1. Education is when you read the fine print. Experience is what you get if you don'
+### 1. Education is when you read the fine print. Experience is what you get if you don'
 
 t                                                                                  
 
 Handle the following conversion specifiers:
 
 
-2. With a face like mine, I do better in print                                      
+### 2. With a face like mine, I do better in print                                      
 
 Handle the following custom conversion specifiers:                                  
 
                                                                                    
 
-3. What one has not experienced, one will never understand in print                
+### 3. What one has not experienced, one will never understand in print                
 
 Handle the following conversion specifiers:                                        
 
                                                                                    
 
-4. Nothing in fine print is ever good news                                          
+### 4. Nothing in fine print is ever good news                                          
 
 Use a local buffer of 1024 chars in order to call write as little as possible.      
 
                                                                                    
 
-5. My weakness is wearing too much leopard print                                    
+### 5. My weakness is wearing too much leopard print                                    
 
 Handle the following custom conversion specifier:                                  
 
                                                                                    
 
-6. How is the world ruled and led to war? Diplomats lie to journalists and believe t
+##$ 6. How is the world ruled and led to war? Diplomats lie to journalists and believe t
 
 hese lies when they see them in print                                              
 
